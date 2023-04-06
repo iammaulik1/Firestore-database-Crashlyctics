@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313182262681",
+    "project_id": "firestore-database-c1ad6",
+    "storage_bucket": "firestore-database-c1ad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313182262681:android:e3b6c8e83545f680e26f08",
+        "android_client_info": {
+          "package_name": "com.example.firestoredatabse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313182262681-35ku5j5veq5v84v7cn0u9muaqt6rm9gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkkilj2LiJ4wwk9sguuduPK5dEnXYZBeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313182262681-35ku5j5veq5v84v7cn0u9muaqt6rm9gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
